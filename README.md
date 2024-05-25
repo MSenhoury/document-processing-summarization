@@ -22,7 +22,7 @@ This project is a Document Processing and Summarization System designed to handl
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/yourusername/document-processing-summarization.git
+   git clone https://github.com/MSenhoury/document-processing-summarization.git
    cd document-processing-summarization
    ```
 
